@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BackgroundMoving.cs" />
+     <Compile Include="Assets\Scripts\AirportMoveAndDestroy.cs" />
+     <Compile Include="Assets\Scripts\AutomaticScaleAndMove.cs" />
+     <Compile Include="Assets\Scripts\BackgroundMoving.cs" />
+     <Compile Include="Assets\Scripts\DestroyAfterTime.cs" />
+     <None Include="Assets\Ruined Store House\Read Me.txt" />
      <None Include="Assets\PlayerMaterials\aeroplanes.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
