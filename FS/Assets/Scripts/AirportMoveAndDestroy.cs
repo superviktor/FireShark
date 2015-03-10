@@ -11,7 +11,7 @@ public class AirportMoveAndDestroy : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		float amountToMove = 4 * Time.deltaTime;
+		float amountToMove = 7 * Time.deltaTime;
 		transform.Translate (Vector3.back * amountToMove);
 	}
 }

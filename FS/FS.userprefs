@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AutomaticScaleAndMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BoltMover.cs">
     <Files>
-      <File FileName="Assets\Scripts\AutomaticScaleAndMove.cs" Line="19" Column="14" />
+      <File FileName="Assets\BoltMover.cs" Line="13" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
