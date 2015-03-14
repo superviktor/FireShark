@@ -1,14 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BoltMover : MonoBehaviour {
+public class LeftPlayerBoltMover : MonoBehaviour {
 
 	private Rigidbody rb;
-
+	
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody>();
-		rb.velocity = transform.up * 24;
+		rb.velocity = new Vector3(-10,0,28);
 	}
 	
 	// Update is called once per frame

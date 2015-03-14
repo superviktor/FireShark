@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BoltMover.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerShootingController.cs">
     <Files>
-      <File FileName="Assets\BoltMover.cs" Line="13" Column="2" />
+      <File FileName="Assets\PlayerShootingController.cs" Line="12" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
